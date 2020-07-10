@@ -7,6 +7,6 @@
 *~
 #not tracked subdirectories
 /env/
-esrc/
+/src/
 /filestore/
 /logs/
